@@ -1,0 +1,10 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+.Client-backg{
+    background-image: url("../src/assets/Vector/Layer\ 3.png");
+    height: 100vh;
+    
+}

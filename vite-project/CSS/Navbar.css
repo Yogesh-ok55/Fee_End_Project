@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.side-bar{
+    display: none;
+}
+.Heading{
+    font-size: 34px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    font-weight: 900;
+    font-family: "Montserrat";
+}
+
+.span-content{
+    color: #0081ff;
+}
+
+.navbar-options{
+    font-size: 15px;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Lato";
+    text-align: center;
+}
+
+@media (max-width:650px) {
+    .navbar-options{
+        display: none;
+    }
+
+    .side-bar{
+        display: block;
+    }
+}
+

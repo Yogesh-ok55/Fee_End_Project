@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.HomePage{
+    background-image: url("../src/assets/Vector/Layer\ 1.png");
+    height: 100vh;
+    color: aliceblue;
+}
+
+@media (max-width:550px){
+.Home-container{
+    margin-left:50px;
+}
+}

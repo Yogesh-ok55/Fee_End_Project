@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.Service-page{
+    background-color: #007af3;
+    height: 600px;
+}
+
+@media (max-width:800px){
+    .Service-page{
+        height:auto;
+    }
+}
